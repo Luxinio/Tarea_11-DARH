@@ -1,3 +1,7 @@
 ﻿Cerón Rodríguez Lezly Dialid 313021455
+<<<<<<< HEAD
 Saviñon Tovar Victor Oscar   313118757
+=======
+Sierra Zambrano Miguel Angel 313043974
+>>>>>>> upstream/master
 Ciclo escolar 2018-II
